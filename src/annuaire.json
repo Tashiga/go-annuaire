@@ -1,0 +1,30 @@
+{
+  "Benjamin Larcheveque": {
+    "nom": "Benjamin Larcheveque",
+    "tel": "0612345678"
+  },
+  "Charlie Dupont": {
+    "nom": "Charlie Dupont",
+    "tel": "0788112233"
+  },
+  "Alice Martin": {
+    "nom": "Alice Martin",
+    "tel": "0622335544"
+  },
+  "Lucie Bernard": {
+    "nom": "Lucie Bernard",
+    "tel": "0644556677"
+  },
+  "Thomas Durand": {
+    "nom": "Thomas Durand",
+    "tel": "0677889900"
+  },
+  "Julie Moreau": {
+    "nom": "Julie Moreau",
+    "tel": "0633221100"
+  },
+  "David Lefevre": {
+    "nom": "David Lefevre",
+    "tel": "0655443322"
+  }
+}
